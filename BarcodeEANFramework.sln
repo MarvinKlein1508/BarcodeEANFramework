@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeEANFramework", "BarcodeEANFramework\BarcodeEANFramework.csproj", "{7D564A15-1E88-423E-9197-C346D06C919F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C4550304-0FD5-4777-B5EC-427236831772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fonts", "Fonts", "{201231FD-4FF0-493B-9542-2A5473F61E80}"
+	ProjectSection(SolutionItems) = preProject
+		Fonts\CodabarRed_D.ttf = Fonts\CodabarRed_D.ttf
+		Fonts\Codabar_D.ttf = Fonts\Codabar_D.ttf
+		Fonts\Code128Red_D.ttf = Fonts\Code128Red_D.ttf
+		Fonts\Code128_D.ttf = Fonts\Code128_D.ttf
+		Fonts\Code25ILHD_D_.ttf = Fonts\Code25ILHD_D_.ttf
+		Fonts\Code25ILRedHD_D.ttf = Fonts\Code25ILRedHD_D.ttf
+		Fonts\Code25ILRed_D.ttf = Fonts\Code25ILRed_D.ttf
+		Fonts\Code25IL_D_.ttf = Fonts\Code25IL_D_.ttf
+		Fonts\Code25IndRed_D.ttf = Fonts\Code25IndRed_D.ttf
+		Fonts\Code25Ind_D.ttf = Fonts\Code25Ind_D.ttf
+		Fonts\Code39HD_D.ttf = Fonts\Code39HD_D.ttf
+		Fonts\Code39Red_D.ttf = Fonts\Code39Red_D.ttf
+		Fonts\Code39_D.ttf = Fonts\Code39_D.ttf
+		Fonts\Codeeanr_D.ttf = Fonts\Codeeanr_D.ttf
+		Fonts\Codeean_D.ttf = Fonts\Codeean_D.ttf
+		Fonts\Coder39RedHD_D.ttf = Fonts\Coder39RedHD_D.ttf
+		Fonts\Codeupcred_D.ttf = Fonts\Codeupcred_D.ttf
+		Fonts\Codeupc_D.ttf = Fonts\Codeupc_D.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185E65E4-13DD-4F3B-95F3-5F3F649A8A71}
+	EndGlobalSection
+EndGlobal
