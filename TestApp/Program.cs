@@ -11,7 +11,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            COMTest1 test1 = new COMTest1();
+            EAN13 test1 = new EAN13();
             Console.WriteLine(test1.GetEAN13BarcodeString("900000078912"));
             Console.ReadKey();
         }
