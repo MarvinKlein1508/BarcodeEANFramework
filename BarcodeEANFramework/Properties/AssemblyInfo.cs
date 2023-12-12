@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("BarcodeEANFramework")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("EAN13 Features für HS Etiketten")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Harold Scholz & Co. GmbH")]
 [assembly: AssemblyProduct("BarcodeEANFramework")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
