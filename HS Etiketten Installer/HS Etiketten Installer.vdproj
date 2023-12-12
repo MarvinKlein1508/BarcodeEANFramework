@@ -196,10 +196,10 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.8"
                     {
-                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
-                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    "Name" = "8:Microsoft .NET Framework 4.8 (x86 und x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.8"
                     }
                 }
             }
@@ -271,7 +271,7 @@
                 "Message" = "8:[VSDNETMSG]"
                 "FrameworkVersion" = "8:.NETFramework,Version=v4.8"
                 "AllowLaterVersions" = "11:FALSE"
-                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=863262"
+                "InstallUrl" = "8:https://go.microsoft.com/fwlink/?LinkId=2085155"
                 }
             }
         }
@@ -736,7 +736,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:HS Etiketten Barcodes"
         "ProductCode" = "8:{DFF1FBC4-5FE0-487E-961A-C83A269F8CB2}"
-        "PackageCode" = "8:{C0920449-284F-4736-89BB-A024FCF39832}"
+        "PackageCode" = "8:{70ED65E6-9624-44DE-AB37-1F0E62AC1717}"
         "UpgradeCode" = "8:{876335DC-BC96-4FF2-8A64-084B15543BDF}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
