@@ -29,20 +29,38 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fonts", "Fonts", "{201231FD
 		Fonts\Codeupc_D.ttf = Fonts\Codeupc_D.ttf
 	EndProjectSection
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HS Etiketten Installer", "HS Etiketten Installer\HS Etiketten Installer.vdproj", "{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|x64.ActiveCfg = Debug|x64
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Debug|x64.Build.0 = Debug|x64
 		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|x64.ActiveCfg = Release|x64
+		{7D564A15-1E88-423E-9197-C346D06C919F}.Release|x64.Build.0 = Release|x64
 		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|x64.ActiveCfg = Debug|x64
+		{C4550304-0FD5-4777-B5EC-427236831772}.Debug|x64.Build.0 = Debug|x64
 		{C4550304-0FD5-4777-B5EC-427236831772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4550304-0FD5-4777-B5EC-427236831772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4550304-0FD5-4777-B5EC-427236831772}.Release|x64.ActiveCfg = Release|x64
+		{C4550304-0FD5-4777-B5EC-427236831772}.Release|x64.Build.0 = Release|x64
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Debug|Any CPU.ActiveCfg = Debug
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Debug|x64.ActiveCfg = Debug
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Debug|x64.Build.0 = Debug
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Release|Any CPU.ActiveCfg = Release
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Release|x64.ActiveCfg = Release
+		{04A6CFCD-B0BF-4C4D-B10E-7DB71AF98430}.Release|x64.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
